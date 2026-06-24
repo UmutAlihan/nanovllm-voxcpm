@@ -1,0 +1,21 @@
+deployment/tests/test_core_config.py
+  s_42921f44d68aec::t_df208e047a1d45 124-147
+deployment/README.md
+  s_42921f44d68aec::t_8b7e8a4777089e 57
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "40c3a4fcd34dfb771383dd575f695bb6b2d869bd",
+  "prompts": {},
+  "sessions": {
+    "s_42921f44d68aec": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "70A85F46-D1CD-4656-ACF6-82C290DD5D66",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Umut Alihan <UmutAlihan@users.noreply.github.com>"
+    }
+  }
+}
