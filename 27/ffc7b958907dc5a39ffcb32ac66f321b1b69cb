@@ -1,0 +1,21 @@
+deployment/README.md
+  s_42921f44d68aec::t_ee8f9d99e2dacf 170,184-188,194-197,201
+deployment/tests/test_services_mp3.py
+  s_42921f44d68aec::t_cc3c93641b4941 75-112
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "27ffc7b958907dc5a39ffcb32ac66f321b1b69cb",
+  "prompts": {},
+  "sessions": {
+    "s_42921f44d68aec": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "70A85F46-D1CD-4656-ACF6-82C290DD5D66",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Umut Alihan <UmutAlihan@users.noreply.github.com>"
+    }
+  }
+}
